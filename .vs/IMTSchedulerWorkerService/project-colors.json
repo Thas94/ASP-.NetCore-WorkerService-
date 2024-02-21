@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "335168aa-64bc-4715-8a5c-301c34d7b8f6": {
+      "ProjectGuid": "335168aa-64bc-4715-8a5c-301c34d7b8f6",
+      "DisplayName": "IMTSchedulerWorkerService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
